@@ -1,0 +1,3 @@
+Tai mano tekstas ir dar teksto
+
+int i = 2*2;
